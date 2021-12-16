@@ -1,0 +1,11 @@
+{
+  "app_name": "My Lab graded task",
+  "description": "This app is created during the MAD lab time",
+  "users": [
+    { "id": "1", "username": "Student01", "password": "1977" },
+    { "id": "2", "username": "Student02", "password": "1985" },
+    { "id": "3", "username": "Student03", "password": "1999" },
+    { "id": "4", "username": "Student04", "password": "2010" },
+    { "id": "5", "username": "Student05", "password": "2014" }
+  ]
+}
